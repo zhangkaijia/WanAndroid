@@ -1,7 +1,8 @@
-package com.tw.wanandroid
+package com.tw.wanandroid.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.tw.wanandroid.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
